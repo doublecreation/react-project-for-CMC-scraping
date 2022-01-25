@@ -1,0 +1,4 @@
+https://coinmarketcap.com/api/documentation/v1/#operation/getV1CryptocurrencyTrendingLatest
+
+
+Build a small webApp to display top 100 tokens with 24 hour volume change 14% in a simple html page using CoinMarketCap API.
